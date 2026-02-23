@@ -2,6 +2,7 @@
   "communication_arrangements": [
     { "name": "CRM", "system": "crm2", "scenario": "SAP_COM_0001" },
     { "name": "WMS", "system": "wms", "scenario": "SAP_COM_0002" },
-    { "name": "TST", "system": "test", "scenario": "SAP_COM_0003" }
+    { "name": "TST", "system": "test", "scenario": "SAP_COM_0003" },
+     { "name": "DFT", "system": "drift", "scenario": "SAP_COM_0004" }
   ]
 }
