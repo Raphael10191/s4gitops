@@ -1,0 +1,6 @@
+{
+  "communication_arrangements": [
+    { "name": "CRM", "system": "crm", "scenario": "SAP_COM_0001" },
+    { "name": "WMS", "system": "wms", "scenario": "SAP_COM_0002" }
+  ]
+}
